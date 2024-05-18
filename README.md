@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hola 🐼
+- Estudiante de Ingeniería Civil en Computación 👾
 <!--
 **FelipeParada/FelipeParada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
